@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "VAULT_Encryptor.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}

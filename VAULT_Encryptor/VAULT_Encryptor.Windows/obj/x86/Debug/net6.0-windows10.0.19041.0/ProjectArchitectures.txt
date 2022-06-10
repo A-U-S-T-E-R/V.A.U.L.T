@@ -1,0 +1,1 @@
+C:\Users\stefa\Documents\Programmieren\VAULT\V.A.U.L.T\VAULT_Encryptor\VAULT_Encryptor.Windows\VAULT_Encryptor.Windows.csproj;x86
